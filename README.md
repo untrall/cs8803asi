@@ -1,10 +1,6 @@
 Adding Easy-to-use Fine-Tuning of Deep Learning Models with EVA
 ===
 
-## Table of Contents
-
-[TOC]
-
 ## How to train
 
 Below are the steps to run the program
