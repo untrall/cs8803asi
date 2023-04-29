@@ -23,7 +23,7 @@ Below are the steps to run the program
 ## How to use fine-tuned model in EVA
 
 1. Download the saved model from ```/cs8803asi/yolov5/runs/train/exp2/weights/best.pt``` and rename it ```model.pt```, then upload the file to ```/cs8803asi``` directory.
-2. Follow instructions in the [```Object_Detection_Fine_Tune.ipynb```](https://github.com/untrall/cs8803asi/blob/main/Object_Detection_Fine_Tune.ipynb) notebook.
+2. Follow instructions in the [```Object_Detection_Fine_Tune_Filter.ipynb```](https://colab.research.google.com/drive/1t8pM9U7-QZkip8b3UxTCYPBfkFq0JP5w#scrollTo=4df1d160) notebook.
 ## Results show case
 ---
 ## Fine tune results
@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/119721683/232174690-40bce4f6-42a3-41fd
 https://user-images.githubusercontent.com/119721683/232174642-eb0f3c25-6d9d-4a6e-a2ce-9aadcea85e50.mp4
 
 ## How to filter specific labels in EVA
-Follow instructions in the [Object_Detection_Fine_Tune.ipynb notebook](https://colab.research.google.com/drive/1t8pM9U7-QZkip8b3UxTCYPBfkFq0JP5w#scrollTo=4df1d160).
+Follow instructions in the [Object_Detection_Fine_Tune_Filter.ipynb notebook](https://colab.research.google.com/drive/1t8pM9U7-QZkip8b3UxTCYPBfkFq0JP5w#scrollTo=4df1d160).
 #### Example image filter out car
 ![filter_car](https://user-images.githubusercontent.com/40770106/235326195-83b0b77a-29d8-4d92-aea3-34c6da83a52b.png)
 
