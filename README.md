@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/119721683/232174690-40bce4f6-42a3-41fd
 https://user-images.githubusercontent.com/119721683/232174642-eb0f3c25-6d9d-4a6e-a2ce-9aadcea85e50.mp4
 
 ## How to filter specific labels in EVA
-Follow instructions in the [Object_Detection_Fine_Tune.ipynb notebook](https://).
+Follow instructions in the [Object_Detection_Fine_Tune.ipynb notebook](https://colab.research.google.com/drive/1t8pM9U7-QZkip8b3UxTCYPBfkFq0JP5w#scrollTo=4df1d160).
 #### Example image filter out car
 ![filter_car](https://user-images.githubusercontent.com/40770106/235326195-83b0b77a-29d8-4d92-aea3-34c6da83a52b.png)
 
