@@ -49,5 +49,19 @@ https://user-images.githubusercontent.com/119721683/232174690-40bce4f6-42a3-41fd
 #### Object-detection applied with EVA
 https://user-images.githubusercontent.com/119721683/232174642-eb0f3c25-6d9d-4a6e-a2ce-9aadcea85e50.mp4
 
+## How to filter specific labels in EVA
+Follow instructions in the [Object_Detection_Fine_Tune.ipynb notebook](https://).
+#### Example image filter out car
+![filter_car](https://user-images.githubusercontent.com/40770106/235326195-83b0b77a-29d8-4d92-aea3-34c6da83a52b.png)
+
+#### Example image filter out traffic light and motobike
+![without_traffic_light](https://user-images.githubusercontent.com/40770106/235326198-664245a9-b4c1-4b42-9962-340c5898d728.png)
+
+#### Example Video filter out car 
+
+
+https://user-images.githubusercontent.com/40770106/235326199-68cbd72d-a6d7-4828-8ea4-cb363f553925.mp4
+
+
 ###### tags: `yolov5` `eva` `Georgia-Tech` `object-detection`
 
